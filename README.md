@@ -8,8 +8,8 @@ This repository contains two folders. One for each problem.
 
 This assignment contains 5 problems. Each problem is in a separate folder and has it's own readme.md file.
 
-- [Problem 1 - Larger Than This](https://github.com/belgort-clark/ctec-121-problem-set-11/tree/master/problem01) is worth 50 points
-- [Problem 2 - Property Taxes](https://github.com/belgort-clark/ctec-121-problem-set-11/tree/master/problem02) is worth 50 points
+- [Problem 1 - Larger Than This](https://github.com/belgort-clark/ctec-121-problem-set-11/tree/master/problem01) (worth 50 points)
+- [Problem 2 - Property Taxes](https://github.com/belgort-clark/ctec-121-problem-set-11/tree/master/problem02) (worth 50 points)
 
 
 ## Instructions
