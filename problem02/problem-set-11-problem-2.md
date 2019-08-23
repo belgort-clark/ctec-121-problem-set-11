@@ -11,7 +11,7 @@
 
 ## Instructions
 
-You have been asked to develop a Python program that will assist a clark who works at the Clark County Assessors Office that will assist them calculating property tax for a given list of properties of properties. The list is printed out on paper is not a Python list :-).
+You have been asked to develop a Python program that will assist a clerk who works at the Clark County Assessors Office that will assist them calculating property tax for a given list of properties. The list is printed out by the clerk on paper. Don't use a Python list for this problem. It's not needed. :-).
 
 The calculation used:
 
@@ -19,7 +19,7 @@ The calculation used:
 property tax = property value x 0.0170
 ```
 
-In your interview with the tax clerk Bruce, you learn that each peroperty ia assigned a lot number, and all lot numbers are numbered 1 or greater. 
+In your interview with the tax clerk Bruce, you learn that each peroperty ia assigned a lot number, and all lot numbers are numbered 1 or greater.
 
 You decied to write a while loop that uses the number 0 as a **sentienl value**. During each loop iteration, the program will ask the clerk to enter either a property's lot number, or 0 to end.
 
