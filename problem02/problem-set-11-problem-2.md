@@ -23,6 +23,8 @@ In your interview with the tax clerk Bruce, you learn that each peroperty ia ass
 
 You decied to write a while loop that uses the number 0 as a **sentienl value**. During each loop iteration, the program will ask the clerk to enter either a property's lot number, or 0 to end.
 
+Within the while loop you will need to ask the user for the value of the property to be used with the property tax calculation.
+
 Your program should ask for a lot number and the print out the proeprty tax if the lot number is greater than 0.
 
 You will need to keep processing lots until the clerk is done using 0 as the sentinal for the lot number.
