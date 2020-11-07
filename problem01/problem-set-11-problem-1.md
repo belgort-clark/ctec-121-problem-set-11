@@ -17,7 +17,7 @@ Ask a user for a number and then determine what numbers in the list of numbers [
 
 In a Python program, write a function named **largerThan** that accepts two arguments: a list, and a number. Call this function from a main() function.
 
-You must pass the list of numbers to the function largerThan along with the value of the variable **n*. The list should contain the numbers 0-10.
+You must pass the list of numbers to the function largerThan along with the value of the variable **n**. The list must contain the numbers 0-10.
 
 The function should create a new empty list and add to this list any numbers that are greater than **n**. The **largerThan** function should then display all of the numbers **using a loop**.
 
